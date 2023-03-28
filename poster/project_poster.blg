@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: project_poster.aux
+The style file: plain.bst
+Database file #1: references.bib
+I was expecting a `,' or a `}'---line 16 of file references.bib
+ :   
+ :   title = {Yellow Taxi Trip Data},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You've used 3 entries,
+            2118 wiz_defined-function locations,
+            514 strings with 4560 characters,
+and the built_in function-call counts, 1009 in all, are:
+= -- 79
+> -- 80
+< -- 1
++ -- 30
+- -- 27
+* -- 74
+:= -- 187
+add.period$ -- 8
+call.type$ -- 3
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 31
+empty$ -- 69
+format.name$ -- 27
+if$ -- 198
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 2
+newline$ -- 16
+num.names$ -- 8
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 17
+quote$ -- 0
+skip$ -- 28
+stack$ -- 0
+substring$ -- 15
+swap$ -- 5
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 12
+warning$ -- 0
+while$ -- 7
+width$ -- 4
+write$ -- 30
+(There was 1 error message)
